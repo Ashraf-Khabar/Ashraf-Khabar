@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Link](https://img.shields.io/badge/Text-Color.svg?logo=LogoName&logoColor=white)](https://achrafkhabar.com/)
+[![Link](https://img.shields.io/badge/Website-%231DA1F2.svg?logo=Link&logoColor=white)](https://achrafkhabar.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashrafkhabar2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/achraf-khabar-bbba361a0) 
 
 # 💻 Tech Stack:
