@@ -1,5 +1,5 @@
 # 💫 About Me:
-Engineer in system information, data science and machine learning, software quality and ML innovation.
+Engineer in system information, data science and deep learning, software quality and ML innovation.
 
 
 ## 🌐 Socials:
