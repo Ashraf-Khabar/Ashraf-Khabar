@@ -1,6 +1,7 @@
 # 💫 About Me:
 Engineer in system information, data science and deep learning, software quality and ML innovation.
 
+[![](https://visitcount.itsvg.in/api?id=Ashraf-Khabar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Personal Website](https://img.shields.io/badge/Personal_Website-%231A73E8.svg)](https://achrafkhabar.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashrafkhabar2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achraf-khabar) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/achrafkhabar) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/15196847) [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-%23FFDD00.svg?logo=buy%20me%20a%20coffee&logoColor=black)](https://www.buymeacoffee.com/khabarachre)
@@ -22,8 +23,6 @@ Engineer in system information, data science and deep learning, software quality
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/BEPb/count.svg">  
-
-[![](https://visitcount.itsvg.in/api?id=Ashraf-Khabar&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/khabarachre) 
