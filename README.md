@@ -3,7 +3,8 @@ Engineer in system information, data science and deep learning, software quality
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashrafkhabar2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achraf-khabar) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/your_username)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-%231A73E8.svg)](https://achrafkhabar.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashrafkhabar2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achraf-khabar) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/achrafkhabar) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/15196847)
+
 
 
 # 💻 Tech Stack:
