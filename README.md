@@ -1,5 +1,5 @@
 # 💫 About Me:
-Engineer in system information, data science and deep learning, software quality and ML innovation.
+Engineer in system information, Quakity and reliability of informatic systemes
 
 [![](https://visitcount.itsvg.in/api?id=Ashraf-Khabar&icon=0&color=0)](https://visitcount.itsvg.in)
 
