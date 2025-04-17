@@ -1,5 +1,9 @@
 # 💫 About Me:
-Engineer in system information, Quakity and reliability of informatic systemes
+I am a Software Engineer currently occupying a Test Automation Engineer position. My responsibilities include ensuring the reliability of solutions, guaranteeing continuous integration and continuous deployment (CI/CD) in production, and maintaining high standards for production delivery. I also develop automation scripts using Python and the Selenium library.
+
+In addition to my current role, I have a strong interest in DevOps and software architecture. I am skilled in various DevOps practices and technologies, including containerization with Docker, orchestration with Kubernetes, and configuration management with tools like Ansible. and have experience with CI/CD tools like GitLab CI.
+
+My development skills extend beyond test automation. I am adept at using a variety of development technologies and frameworks, and I have a solid understanding of software development lifecycle (SDLC) principles, microservices architecture, and RESTful API design
 
 [![](https://visitcount.itsvg.in/api?id=Ashraf-Khabar&icon=0&color=0)](https://visitcount.itsvg.in)
 
