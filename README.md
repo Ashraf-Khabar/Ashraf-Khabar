@@ -8,13 +8,13 @@
 
 <img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+##  About Me
 - I am a Software Engineer currently occupying a Test Automation Engineer position. My responsibilities include ensuring the reliability of solutions, guaranteeing continuous integration and continuous deployment (CI/CD) in production, and maintaining high standards for production delivery. I also develop automation scripts using Python and the Selenium library.
 - In addition to my current role, I have a strong interest in DevOps and software architecture. I am skilled in various DevOps practices and technologies, including containerization with Docker, orchestration with Kubernetes, and configuration management with tools like Ansible. and have experience with CI/CD tools like GitLab CI.
 - My development skills extend beyond test automation. I am adept at using a variety of development technologies and frameworks, and I have a solid understanding of software development lifecycle (SDLC) principles, microservices architecture, and RESTful API design
 
 
-## 📊 GitHub Stats & Trophies
+##  GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Ashraf-Khabar">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashraf-Khabar&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Ashraf-Khabar's GitHub Stats" />
@@ -32,7 +32,7 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 > ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
@@ -56,7 +56,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+##  Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/achraf-khabar/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40"  style="margin: 0 8px;"/></a> <a href="mailto:khabarachraf@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://achraf-khabar.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
