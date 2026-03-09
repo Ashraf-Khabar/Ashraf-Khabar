@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Achraf%20KHABAR&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20DevOps%20Engineer%20%7C%20Automation%20Testing%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>   
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Achraf%20KHABAR&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20DevOps%20Engineer%20%7C%20Automation%20Testing%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Ashraf-Khabar">
